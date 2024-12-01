@@ -1,0 +1,4 @@
+python -m ipykernel install --user --name myenv --display-name "Python (myenv)"
+pip install ipykernel
+ http://localhost:6006/
+tensorboard --logdir=logs/fit
