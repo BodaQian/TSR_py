@@ -73,15 +73,15 @@ Après ce qui précède, nous pouvons relancer l’expérience en exécutant le 
 ### Télécharger et installer Jupyter Notebook
 
 1. **Via pip** (recommandé) :  
-   Si vous avez Python installé, exécutez la commande suivante :  
-   ```bash
-   pip install notebook
-    ```
+Si vous avez Python installé, exécutez la commande suivante :  
+```bash
+pip install notebook
+ ```
 2. **Via conda** (avec Anaconda) :
-  Si vous utilisez Anaconda, installez-le avec :
-  ```bash
-  conda install -c anaconda notebook
-  ```
+Si vous utilisez Anaconda, installez-le avec :
+```bash
+conda install -c anaconda notebook
+```
 3. **Lancer Jupyter Notebook** :
 Après l'installation, lancez Jupyter Notebook avec :
   ```bash
